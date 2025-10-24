@@ -111,8 +111,6 @@ They are widely used in **low-to-moderate pressure applications**, although they
 ---
 
 ## Media
-
-_Add your YouTube or Google Drive demo link here:_  
-[![Watch the Demo](https://img.shields.io/badge/🎥-Watch%20Project%20Demo-blue)](YOUR_VIDEO_LINK)
+[2022MEB1359 PROJECT.pdf](https://github.com/user-attachments/files/23128951/2022MEB1359.PROJECT.pdf)
 
 ---
