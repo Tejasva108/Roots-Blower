@@ -95,31 +95,13 @@ They are widely used in **low-to-moderate pressure applications**, although they
 
 ---
 
-## ⚠️ Challenges Addressed
-
-- Reducing mechanical friction and wear between rotating components.  
-- Improving the efficiency of air movement through optimized rotor geometry.  
-- Minimizing backflow and turbulence within the housing.  
-- Ensuring proper sealing to prevent leakage.  
-
----
-
 ## 🧩 Tools and Software Used
 
 - **SolidWorks** – 3D Modeling and Assembly Design  
-- **Engineering Hand Calculations** – Geometry, volume displacement, and pressure estimations  
 - **Reference Material:** Wikipedia and industry standards for blower design  
 
 ---
 
-## 📊 Key Learnings
-
-- Understanding **positive displacement mechanisms** and volumetric efficiency.  
-- Application of **machine design principles** in real-world systems.  
-- Design for **ease of maintenance** and **mechanical reliability**.  
-- Importance of **gear synchronization** in coupled rotor systems.  
-
----
 
 ## 🧾 References
 
@@ -128,16 +110,7 @@ They are widely used in **low-to-moderate pressure applications**, although they
 
 ---
 
-## 🪁 Conclusion
-
-The designed **Roots Blower model** successfully demonstrates the mechanical and aerodynamic principles behind positive displacement pumps.  
-By optimizing geometry and synchronization, it ensures a **steady, vibration-free flow** suitable for low-pressure industrial air systems.  
-
-This project reinforced the concepts of **rotary motion mechanics, design for manufacturability, and system reliability** in real-world engineering design.
-
----
-
-## 🎥 Project Demo (Optional)
+## Media
 
 _Add your YouTube or Google Drive demo link here:_  
 [![Watch the Demo](https://img.shields.io/badge/🎥-Watch%20Project%20Demo-blue)](YOUR_VIDEO_LINK)
